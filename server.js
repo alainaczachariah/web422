@@ -4,8 +4,8 @@
 *  No part of this assignment has been copied manually or electronically from any other source
 *  (including web sites) or distributed to other students.
 * 
-*  Name: Ling Zhang Student ID: 150903219 Date: September 16th 2022
-*  Cyclic Link: _______________________________________________________________
+*  Name: Alaina C ZachriH ID: 1482201 Date: September 16th 2022
+*  Cyclic Link: ___https://splendid-fish-tank-top.cyclic.app/______
 *
 ********************************************************************************/
 
